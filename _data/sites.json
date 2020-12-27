@@ -6478,8 +6478,8 @@
     {
         "name": "Patreon",
         "url": "https://support.patreon.com/hc/en-us/articles/204605915-Delete-my-Patreon-account",
-        "difficulty": "impossible",
-        "notes": "Follow the steps on the FAQ link. Note that it takes up to 30 days for full deletion.",
+        "difficulty": "hard",
+        "notes": "Submit account for deletion through the Privacy center.",
         "domains": [
             "patreon.com"
         ]
